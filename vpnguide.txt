@@ -42,14 +42,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"advice pack 1","desc":"Orange FNF Mod is a popular modification of the popular music rhythm game called Friday Night Funkin'. This mod has become increasingly popular among fans of the game due to its unique style, catchy music, and challenging gameplay.","photo":"https://iili.io/HU3sSP2.jpg"},
+  {"title":"how to use this app 2","desc":"Friday Night Funkin' is a rhythm-based game that has gained a lot of popularity in recent years due to its catchy beats and challenging gameplay.","photo":"https://iili.io/HU3setf.jpg"},
+  {"title":"helper mod 3","desc":"The game follows the story of a boy named Boyfriend, who is trying to impress his girlfriend by battling against her father in a series of musical challenges.","photo":"https://iili.io/HU3s8Ml.jpg"},
+  {"title":"advance pack 4","desc":"The game is designed to be simple to play, but challenging to master, with players needing to hit the correct notes in time with the music to progress through each level.","photo":"https://iili.io/HU3svn4.jpg"},
+  {"title":"tips mod 5","desc":"One of the reasons why Friday Night Funkin' has become so popular is due to the many mods that have been created for the game.","photo":"https://iili.io/HU3sgFS.jpg"},
+  {"title":"advice pack 6","desc":"These mods add new characters, songs, and gameplay mechanics to the base game, providing a fresh and exciting experience for players","photo":"https://iili.io/HU3src7.jpg"},
+  {"title":"helper mod 7","desc":" Orange FNF Mod is one of these mods, and it has quickly become one of the most popular mods for Friday Night Funkin'.","photo":"https://iili.io/HU3s4S9.jpg"},
+  {"title":"tips pack 8","desc":"Orange FNF Mod is a fan-made modification of Friday Night Funkin' that adds a new character, songs, and levels to the game. The mod is named after its titular character, ","photo":"https://iili.io/HU3sP9e.jpg"}
    ]
  
 }
